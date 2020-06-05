@@ -38,7 +38,8 @@ lúc đến tất cả các client khác
  ┣ 📂source\
  ┣ ┗ 📂GUI\
  ┣ ┗ 📂CLI\
- ┗ 📜De_Socket_2020.pdf\
+ ┗ 📜De_Socket_2020.pdf
+ 
 # Build
 
 + **CLI**
