@@ -32,13 +32,13 @@ lúc đến tất cả các client khác
 
 # Project structure
 
- ┣ 📂doc
- ┣ 📂release
- ┣ 📂report 
- ┣ 📂source
- ┣ ┗ 📂GUI
- ┣ ┗ 📂CLI
- ┗ 📜De_Socket_2020.pdf
+ ┣ 📂doc\
+ ┣ 📂release\
+ ┣ 📂report\
+ ┣ 📂source\
+ ┣ ┗ 📂GUI\
+ ┣ ┗ 📂CLI\
+ ┗ 📜De_Socket_2020.pdf\
 # Build
 
 + **CLI**
