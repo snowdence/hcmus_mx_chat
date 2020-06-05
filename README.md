@@ -61,9 +61,9 @@ lúc đến tất cả các client khác
 
 # How to use!
 
-`Bước 1` : Chạy server.exe
-`Bước 2` : Mở cổng trên Server
-`Bước 3` : Mở client.exe
-`Bước 4` : Cấu hình IP và Port server chat
-`Bước 5` : Đăng ký hoặc đăng nhập
+\`Bước 1` : Chạy server.exe
+\`Bước 2` : Mở cổng trên Server
+\`Bước 3` : Mở client.exe
+\`Bước 4` : Cấu hình IP và Port server chat
+\`Bước 5` : Đăng ký hoặc đăng nhập
 
